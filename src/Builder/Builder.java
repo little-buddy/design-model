@@ -1,4 +1,4 @@
-package Builder.SimpleBuilder;
+package Builder;
 
 import Factory.SimpleFactory.MailSender;
 import Factory.SimpleFactory.Sender;

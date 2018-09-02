@@ -1,4 +1,4 @@
-# JAVA 的23 中设计模式
+# JAVA 的23 种设计模式
 * 工厂方法模式(Factory Method)
 * 抽象工厂模式(Abstract Factory)
 * 单例模式(Singleton)
